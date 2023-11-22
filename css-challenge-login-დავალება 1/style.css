@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    background-color: #FFF;
+}
+*{
+    box-sizing: border-box;
+}
+@font-face {
+    font-family:"Segoe UI";
+    src: url("Segoe\ UI.ttf");
+    font-family:"Roboto" ;
+    src: url("Roboto-Regular.ttf");
+}
+.container{
+    margin: auto;
+    width: 450px;
+    height: 800px;
+     font-style: normal;
+    margin-top: 60px;
+}
+.twitter{
+    width: 50px;
+    height: 41px;
+    margin: 0;
+}
+.section1{
+    height: 42px;
+    margin-top: 36px;
+    margin-left: 9px;
+}
+.satauri{
+    color: #000;
+    font-family: Roboto;
+    font-size: 42px;
+    font-weight: 900;
+}
+.section2{
+    width: 450px;
+    height: 70px;
+    border-radius: 6px;
+    border: 1px solid rgba(0, 0, 0, 0.20);
+    background: #FFF;
+    margin-left: 0;
+    margin-top: 36px;
+}
+::placeholder{
+    color: rgba(0, 0, 0, 0.60);
+    font-family: Segoe UI;
+    font-size: 18px;
+    font-weight: 400;
+}
+#section3{
+    margin-top: 25px;
+}
+.section4{
+    width: 450px;
+    height: 60px;
+    border-radius: 76px;
+    background-color: #1DA1F2;
+    border: none;
+    margin-top: 25px;
+    color: #FFF;
+    text-align: center;
+    font-family: Segoe UI;
+    font-size: 18px;
+    font-weight: 700;
+}
+.section5{
+    margin-top: 40px;
+}
+.link{
+    color: #1DA1F2;
+    font-family: Segoe UI;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 40px;
+    text-decoration: none;
+}
+
+
+
